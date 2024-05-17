@@ -1,0 +1,5 @@
+package com.example.register.dao;
+
+public class UsersDAO {
+
+}
